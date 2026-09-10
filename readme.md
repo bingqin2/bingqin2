@@ -51,13 +51,13 @@ I'm an MCS student at the **University of Illinois Urbana-Champaign**. I build b
 
 <br>
 
-## `> featured_projects`
+## `> featured_work`
 
-| Project | What it does | Stack |
+| Project / Contribution | Highlights | Stack |
 | :--- | :--- | :--- |
 | **[PatchPilot](https://github.com/bingqin2/PatchPilot)** | A self-hosted GitHub issue-to-PR agent that generates patches, runs tests, and opens pull requests for review. | Java · Spring Boot · MySQL · Docker |
 | **[TermScope](https://github.com/bingqin2/hy3-termscope)** | Process evaluation and causal error localization for LLM terminal agents on Terminal-Bench 2.0. | Python · Agent evaluation |
-| **[CourseAwareIDE](https://github.com/bingqin2/CourseAwareIDE)** | A VS Code extension for course resources, PDF annotations, and AI-assisted learning. | TypeScript · Python · PostgreSQL |
+| **[Apache Airflow](https://github.com/apache/airflow)**<br>Open-source contributions | Merged Amazon provider contributions: fixed exception pickling ([#72824](https://github.com/apache/airflow/pull/72824)) and added failure-path and serialization tests for the AWS Step Functions trigger ([#72570](https://github.com/apache/airflow/pull/72570)). | Python · AWS |
 
 **Explore:** [PatchPilot demo](https://github.com/bingqin2/patchpilot-demo-java) · [TermScope report and results](https://bingqin2.github.io/hy3-termscope/) · [All repositories](https://github.com/bingqin2?tab=repositories)
 
