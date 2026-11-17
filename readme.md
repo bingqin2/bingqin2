@@ -19,6 +19,9 @@
   </a>&nbsp;
   <a href="https://github.com/bingqin2?tab=repositories">
     <img src="https://img.shields.io/badge/Projects-000000?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Public repositories" />
+  </a>&nbsp;
+  <a href="https://github.com/kestra-io/kestra/pull/22796">
+    <img src="https://img.shields.io/badge/1st%20PR%20MERGED-KESTRA-1F232C?style=for-the-badge&amp;logo=github&amp;logoColor=200062&amp;labelColor=CDC5FF" alt="First pull request merged in Kestra" />
   </a>
 </p>
 
